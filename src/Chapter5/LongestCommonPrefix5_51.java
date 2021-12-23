@@ -12,6 +12,7 @@ public static void main(String ar[]) {
 	System.out.print("Enter the second string: ");
 	String string2 = input.nextLine();
 
+	
 	int index = 0;				// Initialize index to 0
 	String prefix = "";		// Initialize prefix as empty string
 
